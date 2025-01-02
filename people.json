@@ -14431,6 +14431,24 @@
       "image": "kyungseo-oh.jpg"
    },
    {
+      "name": "Kyungmin Mo",
+      "bio": "<p>"The Kubestronaut program was a very enjoyable experience. I will explore the CNCF Kubernetes ecosystem more deeply in the future!"</p>",
+      "company": "MegazoneCloud",
+      "pronouns": "He/Him",
+      "location": "Gwacheon-si, South Korea",
+      "linkedin": "https://www.linkedin.com/in/kyungmin-mo-40296a318",
+      "twitter": "",
+      "github": "https://github.com/kmoload",
+      "wechat": "",
+      "website": "",
+      "youtube": "",
+      "category": [
+         "Kubestronaut"
+      ],
+      "slack_id": "U07RBL5UPL5",
+      "image": "KyungminMo.jpg"
+   },
+   {
       "name": "Kürşad Güneş",
       "bio": "<p> Kürşad GÜNEŞ is a Senior System Administrator with a strong interest in Cloud Technologies. He is passionate about cutting-edge technologies and instrumental in optimizing workflows, improving system reliability, and automating processes. He has extensive hands-on experience in cybersecurity and system management, with 15 years of experience in system, network, and application security. He is honored to be part of the Kubernetes community and to be a Kubestronaut.</p>",
       "company": "Republic Of Turkey Ministry of Industry and Technology",
